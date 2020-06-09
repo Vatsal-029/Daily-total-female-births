@@ -1,0 +1,3 @@
+Variable Information:
+Date: values starting from 1st Jan'1959 till 31st Dec'1959
+Births: Count of births each day
